@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Empanadapp</string>
+    <string name="desc">image</string>
+    <string name="agregar">agregar</string>
+    <string name="titulo">titulo</string>
+    <string name="asdsad">asdsad</string>
+    <string name="ingredientes">Ingredientes</string>
+    <string name="nombre">nombre</string>
+    <string name="button">Button</string>
+    <string name="ejemplo">ejemplo</string>
+    <string name="crear">crear</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="title_activity_mapa2">Map</string>
+    <string name="mapa">Mapa</string>
+    <string name="ingrediente">ingrediente</string>
+</resources>

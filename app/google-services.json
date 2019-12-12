@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779472812933",
+    "firebase_url": "https://empanadapp-3d39e.firebaseio.com",
+    "project_id": "empanadapp-3d39e",
+    "storage_bucket": "empanadapp-3d39e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779472812933:android:2793f1ffaadc5256aa62ec",
+        "android_client_info": {
+          "package_name": "com.example.empanadapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779472812933-6stf59vs2o153el6hlcg1vtdupah9o0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZQqJ6k-8O9779gzxniKCET8x6cuRPbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779472812933-6stf59vs2o153el6hlcg1vtdupah9o0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
